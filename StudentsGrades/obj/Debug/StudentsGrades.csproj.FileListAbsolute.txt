@@ -1,0 +1,6 @@
+c:\users\sasan\documents\visual studio 2013\Projects\StudentsGrades\StudentsGrades\bin\Debug\StudentsGrades.exe.config
+c:\users\sasan\documents\visual studio 2013\Projects\StudentsGrades\StudentsGrades\bin\Debug\StudentsGrades.exe
+c:\users\sasan\documents\visual studio 2013\Projects\StudentsGrades\StudentsGrades\bin\Debug\StudentsGrades.pdb
+c:\users\sasan\documents\visual studio 2013\Projects\StudentsGrades\StudentsGrades\obj\Debug\StudentsGrades.csprojResolveAssemblyReference.cache
+c:\users\sasan\documents\visual studio 2013\Projects\StudentsGrades\StudentsGrades\obj\Debug\StudentsGrades.exe
+c:\users\sasan\documents\visual studio 2013\Projects\StudentsGrades\StudentsGrades\obj\Debug\StudentsGrades.pdb
